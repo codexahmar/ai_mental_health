@@ -6,7 +6,7 @@ abstract class Assets {
       'assets/images/energia-abstracta-capturada-arte-linea-yoga_852004-231-Photoroom.png';
   static const String onboardingScreenIllustration2 =
       'assets/images/lineas-graciosas-definen-yoga-arte-lineas_852004-250-Photoroom.png';
-  static const String profileImage = 'assets/images/IMG-20241120-WA0034.jpg';
+  static const String profileImage = 'assets/images/profile.jpg';
   static const String gridImage1 =
       'assets/images/meditacion-capturada-ilustracion-linea-arte-yoga_852004-267-Photoroom.png';
   static const String gridImage2 =
